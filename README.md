@@ -1,7 +1,7 @@
 ## MODULAB X kyurishin
 
 This is where I log my study journal for Python and Aiffel everyday.
-Final goal is to become an innovative design 👩🏻‍💻 .
+Final goal is to become an innovative design technologist 👩🏻‍💻 .
 
 
 ### Getting Started
