@@ -1,16 +1,16 @@
-## 🔗 MODULAB X kyurishin
+## MODULAB X kyurishin
 
 This is where I log my study journal for Python and Aiffel,
 in order to pursue my career as a successful creative technologist.
 
 
-### 🔗 Getting Started
+### Getting Started
 
-- [Introduction](https://github.com/kyurishin/first-repository/blob/master/Introduction.ipynb) 👈🏼 Get to know me
+- [Introduction 🔗](https://github.com/kyurishin/first-repository/blob/master/Introduction.ipynb) Get to know me
 
-### 🔗 Work logs
+### Work logs
 
-- [Python3](folder url) 🐍 
-- [Aiffel](folder url) 💻
+- [Python3 🔗](folder url) 🐍 
+- [Aiffel 🔗](folder url) 💻
 
 
