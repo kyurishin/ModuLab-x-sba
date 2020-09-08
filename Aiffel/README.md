@@ -2,6 +2,6 @@
 
 📂 Aiffel
 
-↪️[.ipynb](https://github.com/kyurishin/first-repository/blob/master/Aiffel/F3%20-%20Start%20coding%20with%20Python%20.ipynb)
+↪ [.ipynb](https://github.com/kyurishin/first-repository/blob/master/Aiffel/F3%20-%20Start%20coding%20with%20Python%20.ipynb)
 
 누르시오 ☝🏼
